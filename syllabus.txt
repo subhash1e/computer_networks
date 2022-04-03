@@ -1,0 +1,28 @@
+Module 1 > 
+i>Overview of Data Communications and Neworking 
+ii> Topology
+iii> Protocol (OSI) and Standards
+iv> Physical layer with its Details, Analog, Digital Signals
+v> Digital vs Analog , Data Rate Limits , Transmission Impairment
+vi > Digital transmission, Line Coding , Block Coding, Sampling , Transmission Mode
+vii > Analog Transmission , Modulation of digital data, Telephone modems, Modulation of analog Signals
+viii> Multiplexing
+ix> Transmission media - Guided and Unguided media
+x> Circuit Swiching , Telephone Network
+
+Physical Layer : Analog and Digital Signal
+________________________________________
+
+Module 2 > 
+Data Link Layer
+
+__________________________________________
+
+Module 3>
+Network Layer
+___________________________________________
+
+Module 4 > 
+Application Layer
+
+___________________________________________________
