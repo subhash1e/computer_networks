@@ -11,18 +11,59 @@ ix> Transmission media - Guided and Unguided media
 x> Circuit Swiching , Telephone Network
 
 Physical Layer : Analog and Digital Signal
-________________________________________
+_______________________________________________________________________________________
 
 Module 2 > 
-Data Link Layer
+Data Link Layer;
+Error Detection and Correction
+Types Of Errors
+Detection,Error Correction
+______
+Data link Control and protocols
+Flow and Error Control,
+___
+Flow Control
+Stop and wait ARQ
+Go-Back N ARQ
+Selective Repeat ARQ, HDLC
+________________
+Point to Point Access : PPP
+Point to Point Protocol, PPP Stack
+______________________
+Multiple Access ; 
+Random access, Controlled access, Channelization
+__________
+Local Area Network : EtherNet, Fast Ethernet, GigaEthernet
+Wireless LANs; IEEE802.11
+Bluetooth virtual Circuit : Frame Relay and ATM
 
-__________________________________________
+
+_______________________________________________________________________________________
 
 Module 3>
-Network Layer
-___________________________________________
+Network Layer,
+Host to Host Delivery
+,
+Internetworking,
+Addressing and Routing,
+_________
+Network Layer Protocols : ARP , IPV4/6, ICMP, ICMPR6
+
+_________
+Transport Layer - Process to Process Delivery; TCP congestion control and QoS
+___________________________________________________________________________________________
 
 Module 4 > 
 Application Layer
 
-___________________________________________________
+Client Server Model
+-
+Socket Interface Domain Name System
+-
+Electronic Mail SMTP
+FTP
+,HTTP and WWW
+,
+Security - cryptography, Message Security, User Authentication
+
+__________________________________________________________________________________________________
