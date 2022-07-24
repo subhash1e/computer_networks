@@ -1,0 +1,17 @@
+--------------------------  SUM OF 1 IN DATA IS EVEN THEN EVEN PARITY ELSE ODD PARITY --------------------
+
+Parity (odd, even, none) is a method, by which the integrity of data is ensured during transmission/reception.
+
+
+-----used to check data integrity of recieved data--------------------------------
+When in use, there is a bit in the transmitted data called a “parity bit”
+placed accordingly to provide the data to be ODD or EVEN. 
+
+If the data is corrupted somehow, the PARITY will be wrong and a re-transmission will be requested or an error sent.
+
+ 
+=================> another way is to use - “Error Correcting Code” (“Error Correcting Code”).
+
+It is an encoding that is more complicated than parity.
+
+Most ECC can repair of one bit errors and detect multiple bit errors.
