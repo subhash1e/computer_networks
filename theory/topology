@@ -1,0 +1,26 @@
+------------------PHYSICAL AND LOGICAL TOPOLOGY ARE THERE ------------------------------------
+
+
+Topology defines the structure of the network of how all the components are interconnected to each other. 
+
+-----------------------------------------------------------------------------------------------------
+
+
+
+There are two types of topology: physical and logical topology.
+
+Physical topology is the geometric representation of all the nodes in a network.
+
+
+
+
+
+-------------------------- GEOMETRIC REPRESENTATION OF ALL THE NODES IN THE NETWORK ---------------------
+BUS -- USES CSMA METHOD TO ACCESS DATA IN THIS TOPOLOGY, 
+TREE , --  TOKEN PASSING METHOD IS USED TO ACCESS DATA IN THIS TOPOLOGY,
+RING ,
+MESH ,
+STAR ,
+
+
+HYBRID
