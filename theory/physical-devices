@@ -21,3 +21,22 @@ __________________________
 different categories cable vary netspeeds.
 
 _______________________________________________
+
+
+More Physical devices: 
+
+Repeater/Extender  - job is to regenerate same level of signal
+Amplifier - job is to increase signal amplitude
+
+
+==Repeater is used to connect two LAN segments , they must use same protocol
+
+Disadv, repeater are dumb and repeat every signal even not required
+collision domain doesnt reduce , it means blocking doesn;t happen it will send data to unwanted signals
+2 way transmission
+
+===Hub is multiport repeater -job is to broadcast the message to every nodes
+
+-cheaper than switch hence it is more popular than switch
+-high traffic level
+-uncontrolled transmission
