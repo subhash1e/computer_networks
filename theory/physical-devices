@@ -1,0 +1,23 @@
+ethernet cable, - lan
+gateway,router,switch, bridge
+
+
+
+---Network hardware devices works in 3 layer ,,[[ Network, Data-Link, Physical ]]
+
+...phsical - repeater,hub,cable,nic card
+...data-link-layer - switch , bridge 
+...network - router,gateway
+
+-_______________________
+
+Coaxial cable - tvCable speed of 10Mbps, Obsolete
+Twisted -pair cabling - cat1,2,3,4..wire twisted around each other - help in reducing outer interference,
+                        they are cancelled.
+ Fibre -Optics Cabling - transmit data in the form of light signal
+
+__________________________
+
+different categories cable vary netspeeds.
+
+_______________________________________________
