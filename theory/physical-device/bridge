@@ -40,3 +40,10 @@ collision domain doesnt reduce , it means blocking doesn;t happen it will send d
 -cheaper than switch hence it is more popular than switch
 -high traffic level
 -uncontrolled transmission
+
+
+++++++==========================bridge [[repeater]]
+
+use to connect different lans
+
+while hub connects bw same lan
