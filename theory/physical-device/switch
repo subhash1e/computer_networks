@@ -1,0 +1,6 @@
+====it has no. of ports (in power of 2), by which we can connect different devices
+
+--It is like a bridge but has more ports and connects within a lan.
+
+==============used to unicasting : control data transmission
+============= collosion domain : 0
