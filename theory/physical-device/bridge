@@ -1,26 +1,4 @@
-ethernet cable, - lan
-gateway,router,switch, bridge
 
-
-
----Network hardware devices works in 3 layer ,,[[ Network, Data-Link, Physical ]]
-
-...phsical - repeater,hub,cable,nic card
-...data-link-layer - switch , bridge 
-...network - router,gateway
-
--_______________________
-
-Coaxial cable - tvCable speed of 10Mbps, Obsolete
-Twisted -pair cabling - cat1,2,3,4..wire twisted around each other - help in reducing outer interference,
-                        they are cancelled.
- Fibre -Optics Cabling - transmit data in the form of light signal
-
-__________________________
-
-different categories cable vary netspeeds.
-
-_______________________________________________
 
 
 More Physical devices: 
@@ -47,3 +25,11 @@ collision domain doesnt reduce , it means blocking doesn;t happen it will send d
 use to connect different lans
 
 while hub connects bw same lan
+
+traffic is divided bw sub-segments
+so collsion domain is reduced opposite of hubs.
+
+=======components: uses mac address of segement: 
+=========bridge can store and forward , so no collisoin inside the bridge.
+
+=======types : transparent and translation:
